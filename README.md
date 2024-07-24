@@ -106,3 +106,5 @@ O nome do arquivo é file mesmo.
 	    "statusCode": 201
     }
 ```
+
+**PS:. É possível carregar 2 ou mais arquivos de texto para conversão. A API salva tudo no mesmo arquivo de JSON.**
